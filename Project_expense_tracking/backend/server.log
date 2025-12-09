@@ -1,0 +1,165 @@
+2025-12-07 01:50:40,269 - db_helper - INFO - fetch_expenses_for_date: 2024-08-01
+2025-12-07 14:42:01,120 - db_helper - INFO - fetch_expenses_for_date: 2024-08-02
+2025-12-07 14:54:09,917 - db_helper - INFO - fetch_expenses_for_date: 2024-08-02
+2025-12-07 15:02:26,499 - db_helper - INFO - fetch_expenses_for_date: 2024-08-02
+2025-12-07 15:08:29,384 - db_helper - INFO - fetch_expenses_for_date: 2024-08-02
+2025-12-07 15:10:19,304 - db_helper - INFO - fetch_expenses_for_date: 2024-08-02
+2025-12-07 15:10:39,106 - db_helper - INFO - fetch_expenses_for_date: 2024-08-02
+2025-12-07 15:11:56,838 - db_helper - INFO - fetch_expenses_for_date: 2024-08-02
+2025-12-07 15:18:49,820 - db_helper - INFO - fetch_expenses_for_date: 2024-08-02
+2025-12-07 15:52:08,613 - db_helper - INFO - fetch_expenses_for_date: 2024-08-02
+2025-12-07 15:53:31,090 - db_helper - INFO - fetch_expenses_for_date: 2024-08-01
+2025-12-07 15:53:33,441 - db_helper - INFO - fetch_expenses_for_date: 2024-08-01
+2025-12-07 15:53:36,412 - db_helper - INFO - fetch_expenses_for_date: 2024-08-01
+2025-12-07 15:53:49,791 - db_helper - INFO - fetch_expenses_for_date: 2024-08-01
+2025-12-07 15:53:53,572 - db_helper - INFO - fetch_expenses_for_date: 2024-08-01
+2025-12-07 15:55:13,122 - db_helper - INFO - fetch_expenses_for_date: 2024-08-01
+2025-12-07 15:56:51,337 - db_helper - INFO - fetch_expenses_for_date: 2024-08-01
+2025-12-07 15:57:19,572 - db_helper - INFO - fetch_expenses_for_date: 2024-08-01
+2025-12-07 16:05:55,669 - db_helper - INFO - fetch_expenses_for_date: 2024-08-01
+2025-12-07 16:06:02,767 - db_helper - INFO - fetch_expenses_for_date: 2024-08-07
+2025-12-07 16:06:06,534 - db_helper - INFO - fetch_expenses_for_date: 2024-08-07
+2025-12-07 16:06:08,390 - db_helper - INFO - fetch_expenses_for_date: 2024-08-07
+2025-12-07 16:06:12,269 - db_helper - INFO - fetch_expenses_for_date: 2024-08-01
+2025-12-07 16:06:15,197 - db_helper - INFO - fetch_expenses_for_date: 2024-08-07
+2025-12-07 16:06:19,285 - db_helper - INFO - fetch_expenses_for_date: 2024-08-07
+2025-12-07 16:06:22,478 - db_helper - INFO - fetch_expenses_for_date: 2024-08-02
+2025-12-07 16:06:24,306 - db_helper - INFO - fetch_expenses_for_date: 2024-08-03
+2025-12-07 16:06:26,513 - db_helper - INFO - fetch_expenses_for_date: 2024-08-05
+2025-12-07 16:06:44,245 - db_helper - INFO - fetch_expenses_for_date: 2024-08-07
+2025-12-07 16:07:23,016 - db_helper - INFO - fetch_expenses_for_date: 2024-08-01
+2025-12-07 16:07:25,525 - db_helper - INFO - fetch_expenses_for_date: 2024-08-02
+2025-12-07 16:07:28,254 - db_helper - INFO - fetch_expenses_for_date: 2024-08-05
+2025-12-07 16:17:48,288 - db_helper - INFO - fetch_expenses_for_date: 2024-08-28
+2025-12-07 16:17:50,685 - db_helper - INFO - fetch_expenses_for_date: 2024-08-01
+2025-12-07 16:17:52,762 - db_helper - INFO - fetch_expenses_for_date: 2024-08-01
+2025-12-07 16:17:52,792 - db_helper - INFO - delete_expenses_for_date: 2024-08-01
+2025-12-07 16:17:52,804 - db_helper - INFO - insert_expenses_for_date: 2024-08-01, amount: 1227.0, category: Rent, notes: Monthly rent payment
+2025-12-07 16:17:52,814 - db_helper - INFO - insert_expenses_for_date: 2024-08-01, amount: 300.0, category: Food, notes: Groceries for the week
+2025-12-07 16:17:52,826 - db_helper - INFO - insert_expenses_for_date: 2024-08-01, amount: 1200.0, category: Rent, notes: Monthly rent payment
+2025-12-07 16:17:52,837 - db_helper - INFO - insert_expenses_for_date: 2024-08-01, amount: 300.0, category: Food, notes: Groceries for the week
+2025-12-07 16:17:56,087 - db_helper - INFO - fetch_expenses_for_date: 2024-08-08
+2025-12-07 16:17:57,991 - db_helper - INFO - fetch_expenses_for_date: 2024-08-07
+2025-12-07 16:25:47,551 - db_helper - INFO - fetch_expenses_for_date: 2024-08-07
+2025-12-07 16:25:51,371 - db_helper - INFO - fetch_expenses_for_date: 2024-08-08
+2025-12-07 16:25:53,953 - db_helper - INFO - fetch_expenses_for_date: 2024-08-07
+2025-12-07 16:25:56,382 - db_helper - INFO - fetch_expenses_for_date: 2024-08-01
+2025-12-07 16:26:23,758 - db_helper - INFO - fetch_expenses_for_date: 2024-08-07
+2025-12-07 16:26:27,320 - db_helper - INFO - fetch_expenses_for_date: 2024-08-12
+2025-12-07 16:26:42,487 - db_helper - INFO - fetch_expenses_for_date: 2024-08-01
+2025-12-07 16:26:45,478 - db_helper - INFO - fetch_expenses_for_date: 2024-08-07
+2025-12-07 16:26:49,243 - db_helper - INFO - fetch_expenses_for_date: 2024-08-19
+2025-12-07 16:27:23,558 - db_helper - INFO - fetch_expenses_for_date: 2024-08-20
+2025-12-07 16:27:26,409 - db_helper - INFO - fetch_expenses_for_date: 2024-08-07
+2025-12-07 16:27:34,831 - db_helper - INFO - fetch_expenses_for_date: 2024-08-01
+2025-12-07 16:27:42,955 - db_helper - INFO - fetch_expenses_for_date: 2024-08-07
+2025-12-07 16:29:46,002 - db_helper - INFO - fetch_expenses_for_date: 2024-08-01
+2025-12-07 16:30:02,016 - db_helper - INFO - fetch_expenses_for_date: 2024-08-01
+2025-12-07 16:30:05,608 - db_helper - INFO - fetch_expenses_for_date: 2024-08-07
+2025-12-07 16:30:11,220 - db_helper - INFO - fetch_expenses_for_date: 2024-08-08
+2025-12-07 16:41:22,879 - db_helper - INFO - fetch_expenses_for_date: 2024-08-08
+2025-12-07 16:41:26,825 - db_helper - INFO - fetch_expenses_for_date: 2024-08-07
+2025-12-07 16:41:29,182 - db_helper - INFO - fetch_expenses_for_date: 2024-08-01
+2025-12-07 16:41:31,448 - db_helper - INFO - fetch_expenses_for_date: 2024-08-06
+2025-12-07 16:41:40,262 - db_helper - INFO - fetch_expenses_for_date: 2024-08-06
+2025-12-07 16:41:42,322 - db_helper - INFO - fetch_expenses_for_date: 2024-08-01
+2025-12-07 16:41:46,252 - db_helper - INFO - fetch_expenses_for_date: 2024-08-01
+2025-12-07 16:41:47,801 - db_helper - INFO - fetch_expenses_for_date: 2024-08-02
+2025-12-07 16:41:53,308 - db_helper - INFO - fetch_expenses_for_date: 2024-08-02
+2025-12-07 16:41:53,332 - db_helper - INFO - delete_expenses_for_date: 2024-08-02
+2025-12-07 16:41:53,342 - db_helper - INFO - insert_expenses_for_date: 2024-08-02, amount: 1227.0, category: Rent, notes: Monthly rent payment
+2025-12-07 16:41:53,351 - db_helper - INFO - insert_expenses_for_date: 2024-08-02, amount: 300.0, category: Food, notes: Groceries for the week
+2025-12-07 16:41:53,362 - db_helper - INFO - insert_expenses_for_date: 2024-08-02, amount: 1200.0, category: Rent, notes: Monthly rent payment
+2025-12-07 16:41:53,372 - db_helper - INFO - insert_expenses_for_date: 2024-08-02, amount: 300.0, category: Food, notes: Groceries for the week
+2025-12-07 16:41:53,994 - db_helper - INFO - fetch_expenses_for_date: 2024-08-02
+2025-12-07 16:41:54,019 - db_helper - INFO - delete_expenses_for_date: 2024-08-02
+2025-12-07 16:41:54,028 - db_helper - INFO - insert_expenses_for_date: 2024-08-02, amount: 1227.0, category: Rent, notes: Monthly rent payment
+2025-12-07 16:41:54,038 - db_helper - INFO - insert_expenses_for_date: 2024-08-02, amount: 300.0, category: Food, notes: Groceries for the week
+2025-12-07 16:41:54,050 - db_helper - INFO - insert_expenses_for_date: 2024-08-02, amount: 1200.0, category: Rent, notes: Monthly rent payment
+2025-12-07 16:41:54,061 - db_helper - INFO - insert_expenses_for_date: 2024-08-02, amount: 300.0, category: Food, notes: Groceries for the week
+2025-12-07 16:41:57,394 - db_helper - INFO - fetch_expenses_for_date: 2024-08-02
+2025-12-07 16:41:57,413 - db_helper - INFO - delete_expenses_for_date: 2024-08-02
+2025-12-07 16:41:57,421 - db_helper - INFO - insert_expenses_for_date: 2024-08-02, amount: 1227.0, category: Rent, notes: Monthly rent payment
+2025-12-07 16:41:57,428 - db_helper - INFO - insert_expenses_for_date: 2024-08-02, amount: 300.0, category: Food, notes: Groceries for the week
+2025-12-07 16:41:57,436 - db_helper - INFO - insert_expenses_for_date: 2024-08-02, amount: 1200.0, category: Rent, notes: Monthly rent payment
+2025-12-07 16:41:57,447 - db_helper - INFO - insert_expenses_for_date: 2024-08-02, amount: 300.0, category: Food, notes: Groceries for the week
+2025-12-07 16:42:00,637 - db_helper - INFO - fetch_expenses_for_date: 2024-08-05
+2025-12-07 16:42:05,820 - db_helper - INFO - fetch_expenses_for_date: 2024-08-05
+2025-12-07 16:42:05,845 - db_helper - INFO - delete_expenses_for_date: 2024-08-05
+2025-12-07 16:42:05,853 - db_helper - INFO - insert_expenses_for_date: 2024-08-05, amount: 1227.0, category: Food, notes: Monthly rent payment
+2025-12-07 16:42:05,860 - db_helper - INFO - insert_expenses_for_date: 2024-08-05, amount: 300.0, category: Food, notes: Groceries for the week
+2025-12-07 16:42:05,868 - db_helper - INFO - insert_expenses_for_date: 2024-08-05, amount: 1200.0, category: Rent, notes: Monthly rent payment
+2025-12-07 16:42:05,877 - db_helper - INFO - insert_expenses_for_date: 2024-08-05, amount: 300.0, category: Food, notes: Groceries for the week
+2025-12-07 18:10:19,891 - db_helper - INFO - fetch_expenses_for_date: 2024-08-01
+2025-12-07 18:10:23,847 - db_helper - INFO - fetch_expenses_for_date: 2024-08-07
+2025-12-07 18:10:34,268 - db_helper - INFO - fetch_expenses_for_date: 2024-08-06
+2025-12-07 18:13:21,206 - db_helper - INFO - fetch_expenses_for_date: 2024-08-06
+2025-12-07 18:13:21,229 - db_helper - INFO - delete_expenses_for_date: 2024-08-06
+2025-12-07 18:13:21,236 - db_helper - INFO - insert_expenses_for_date: 2024-08-06, amount: 1227.0, category: Rent, notes: Monthly rent payment
+2025-12-07 18:13:21,241 - db_helper - INFO - insert_expenses_for_date: 2024-08-06, amount: 300.0, category: Food, notes: Groceries for the week
+2025-12-07 18:13:21,248 - db_helper - INFO - insert_expenses_for_date: 2024-08-06, amount: 1200.0, category: Rent, notes: Monthly rent payment
+2025-12-07 18:13:21,254 - db_helper - INFO - insert_expenses_for_date: 2024-08-06, amount: 300.0, category: Food, notes: Groceries for the week
+2025-12-07 18:13:25,699 - db_helper - INFO - fetch_expenses_for_date: 2024-08-07
+2025-12-07 18:13:36,202 - db_helper - INFO - fetch_expenses_for_date: 2024-09-09
+2025-12-07 18:17:32,763 - db_helper - INFO - fetch_expenses_for_date: 2024-09-07
+2025-12-07 18:19:41,383 - db_helper - INFO - fetch_expenses_for_date: 2024-09-04
+2025-12-07 18:19:44,004 - db_helper - INFO - fetch_expenses_for_date: 2024-09-07
+2025-12-07 18:22:15,030 - db_helper - INFO - fetch_expenses_for_date: 2024-09-07
+2025-12-07 18:22:15,061 - db_helper - INFO - delete_expenses_for_date: 2024-09-07
+2025-12-07 18:22:15,068 - db_helper - INFO - insert_expenses_for_date: 2024-09-07, amount: 300.0, category: Shopping, notes: print
+2025-12-07 18:22:15,078 - db_helper - INFO - insert_expenses_for_date: 2024-09-07, amount: 250.0, category: Shopping, notes: LOL
+2025-12-07 18:51:28,622 - db_helper - INFO - fetch_expenses_for_date: 2024-09-07
+2025-12-07 18:51:28,645 - db_helper - INFO - delete_expenses_for_date: 2024-09-07
+2025-12-07 18:51:28,653 - db_helper - INFO - insert_expenses_for_date: 2024-09-07, amount: 300.0, category: Shopping, notes: print
+2025-12-07 18:51:28,660 - db_helper - INFO - insert_expenses_for_date: 2024-09-07, amount: 250.0, category: Shopping, notes: LOL
+2025-12-07 18:57:44,172 - db_helper - INFO - fetch_expenses_for_date: 2024-09-07
+2025-12-07 18:57:44,190 - db_helper - INFO - delete_expenses_for_date: 2024-09-07
+2025-12-07 18:57:44,197 - db_helper - INFO - insert_expenses_for_date: 2024-09-07, amount: 300.0, category: Shopping, notes: print
+2025-12-07 18:57:44,203 - db_helper - INFO - insert_expenses_for_date: 2024-09-07, amount: 250.0, category: Shopping, notes: LOL
+2025-12-07 18:58:19,810 - db_helper - INFO - fetch_expenses_for_date: 2024-09-07
+2025-12-07 18:58:19,834 - db_helper - INFO - delete_expenses_for_date: 2024-09-07
+2025-12-07 18:58:19,844 - db_helper - INFO - insert_expenses_for_date: 2024-09-07, amount: 300.0, category: Shopping, notes: printer
+2025-12-07 18:58:19,851 - db_helper - INFO - insert_expenses_for_date: 2024-09-07, amount: 250.0, category: Shopping, notes: monitor
+2025-12-07 18:58:19,858 - db_helper - INFO - insert_expenses_for_date: 2024-09-07, amount: 600.0, category: Shopping, notes: rum
+2025-12-07 19:03:48,046 - db_helper - INFO - fetch_expenses_for_date: 2024-09-07
+2025-12-07 19:03:48,077 - db_helper - INFO - delete_expenses_for_date: 2024-09-07
+2025-12-07 19:03:48,083 - db_helper - INFO - insert_expenses_for_date: 2024-09-07, amount: 300.0, category: Shopping, notes: printer
+2025-12-07 19:03:48,089 - db_helper - INFO - insert_expenses_for_date: 2024-09-07, amount: 250.0, category: Shopping, notes: monitor
+2025-12-07 19:03:48,094 - db_helper - INFO - insert_expenses_for_date: 2024-09-07, amount: 600.0, category: Shopping, notes: rum
+2025-12-07 19:03:58,708 - db_helper - INFO - fetch_expenses_for_date: 2024-09-07
+2025-12-07 19:03:58,734 - db_helper - INFO - delete_expenses_for_date: 2024-09-07
+2025-12-07 19:03:58,740 - db_helper - INFO - insert_expenses_for_date: 2024-09-07, amount: 300.0, category: Shopping, notes: printer
+2025-12-07 19:03:58,747 - db_helper - INFO - insert_expenses_for_date: 2024-09-07, amount: 250.0, category: Shopping, notes: monitor
+2025-12-07 19:03:58,754 - db_helper - INFO - insert_expenses_for_date: 2024-09-07, amount: 600.0, category: Shopping, notes: rum
+2025-12-07 19:07:23,323 - db_helper - INFO - fetch_expenses_for_date: 2024-08-07
+2025-12-07 19:07:25,915 - db_helper - INFO - fetch_expenses_for_date: 2024-08-07
+2025-12-07 19:07:27,094 - db_helper - INFO - fetch_expenses_for_date: 2024-08-07
+2025-12-07 19:07:42,503 - db_helper - INFO - fetch_expenses_for_date: 2024-08-07
+2025-12-07 19:07:58,416 - db_helper - INFO - fetch_expenses_for_date: 2024-08-07
+2025-12-07 19:14:56,609 - db_helper - INFO - fetch_expenses_for_date: 2024-08-07
+2025-12-07 19:15:11,269 - db_helper - INFO - fetch_expenses_for_date: 2024-08-01
+2025-12-07 19:15:17,008 - db_helper - INFO - fetch_expenses_for_date: 2024-08-07
+2025-12-07 19:22:24,670 - db_helper - INFO - fetch_expenses_for_date: 2024-08-07
+2025-12-07 19:25:23,389 - db_helper - INFO - fetch_expenses_for_date: 2024-08-07
+2025-12-07 19:25:23,420 - db_helper - INFO - delete_expenses_for_date: 2024-08-07
+2025-12-07 19:25:23,425 - db_helper - INFO - insert_expenses_for_date: 2024-08-07, amount: 500.0, category: Shopping, notes: t-shirt
+2025-12-07 19:25:23,431 - db_helper - INFO - insert_expenses_for_date: 2024-08-07, amount: 700.0, category: Shopping, notes: car
+2025-12-07 19:25:26,389 - db_helper - INFO - fetch_expenses_for_date: 2024-08-07
+2025-12-07 19:53:54,106 - db_helper - INFO - fetch_expense_summary: 2024-08-01, 2024-08-05
+2025-12-07 23:22:48,864 - db_helper - INFO - fetch_expenses_for_date: 2024-08-01
+2025-12-07 23:22:52,224 - db_helper - INFO - fetch_expenses_for_date: 2024-08-01
+2025-12-07 23:23:07,530 - db_helper - INFO - fetch_expenses_for_date: 2024-08-01
+2025-12-07 23:23:35,563 - db_helper - INFO - fetch_expenses_for_date: 2024-08-01
+2025-12-07 23:26:33,315 - db_helper - INFO - fetch_expenses_for_date: 2024-08-01
+2025-12-07 23:35:04,712 - db_helper - INFO - fetch_expenses_for_date: 2024-08-01
+2025-12-07 23:35:05,653 - db_helper - INFO - fetch_expenses_for_date: 2024-08-01
+2025-12-07 23:35:05,683 - db_helper - INFO - fetch_expense_summary: 2024-08-01, 2024-08-05
+2025-12-07 23:38:40,562 - db_helper - INFO - fetch_expenses_for_date: 2024-08-01
+2025-12-07 23:38:43,377 - db_helper - INFO - fetch_expenses_for_date: 2024-08-01
+2025-12-07 23:38:43,401 - db_helper - INFO - fetch_expense_summary: 2024-08-01, 2024-08-05
+2025-12-07 23:45:34,751 - db_helper - INFO - fetch_expenses_for_date: 2024-08-01
+2025-12-07 23:45:36,588 - db_helper - INFO - fetch_expenses_for_date: 2024-08-01
+2025-12-07 23:45:36,615 - db_helper - INFO - fetch_expense_summary: 2024-08-01, 2024-08-05
+2025-12-07 23:47:36,733 - db_helper - INFO - fetch_expenses_for_date: 2024-08-01
+2025-12-07 23:47:37,700 - db_helper - INFO - fetch_expenses_for_date: 2024-08-01
+2025-12-07 23:47:37,724 - db_helper - INFO - fetch_expense_summary: 2024-08-01, 2024-08-05
