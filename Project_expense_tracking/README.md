@@ -15,10 +15,10 @@ This project is an expense management system that consists of a Streamlit fronte
 ## Setup Instructions
 
 1. **Clone the repository**:
-   ```bash
+   
   https://github.com/ShahriarRafid-07/Expense-Tracking/
    cd expense-management-system
-   ```
+
 1. **Install dependencies:**:   
    ```commandline
     pip install -r requirements.txt
