@@ -4,6 +4,8 @@ from analytics_ui import analytics_tab
 from monthly_analytics_ui import monthly_analytics_tab
 from view_manage_ui import view_manage_tab
 from auth_ui import login_page, logout
+import os
+API_URL = os.getenv("API_URL", "http://localhost:8000")
 
 # Set page config
 st.set_page_config(
