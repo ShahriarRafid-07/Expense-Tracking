@@ -7,3 +7,10 @@ mysql-connector-python==9.5.0
 pandas==2.3.3
 requests==2.32.5
 pytest==9.0.2
+streamlit
+fastapi
+uvicorn
+cryptography
+pandas
+sqlite3
+plotly
