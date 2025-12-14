@@ -1,0 +1,9 @@
+streamlit==1.52.1
+pandas == 2.3.3
+pydantic==2.12.5
+pydantic_core==2.41.5
+uvicorn==0.38.0
+mysql-connector-python==9.5.0
+pandas==2.3.3
+requests==2.32.5
+pytest==9.0.2

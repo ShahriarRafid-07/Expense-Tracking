@@ -1,4 +1,3 @@
-
 # Expense Management System
 
 This project is an expense management system that consists of a Streamlit frontend application and a FastAPI backend server.
@@ -16,10 +15,10 @@ This project is an expense management system that consists of a Streamlit fronte
 ## Setup Instructions
 
 1. **Clone the repository**:
-   ```bash
-   git clone https://github.com/ShahriarRafid-07/expense-management-system.git
+   
+  https://github.com/ShahriarRafid-07/Expense-Tracking/
    cd expense-management-system
-   ```
+
 1. **Install dependencies:**:   
    ```commandline
     pip install -r requirements.txt
@@ -32,7 +31,3 @@ This project is an expense management system that consists of a Streamlit fronte
    ```commandline
     streamlit run frontend/app.py
    ```
-
-# Expense-Tracking
-Full-stack expense tracker with FastAPI backend and Streamlit frontend. Track daily expenses across categories (Rent, Food, Shopping, etc.), visualize spending patterns with interactive charts, and analyze expense breakdowns over custom date ranges. Simple personal finance management tool.
-
