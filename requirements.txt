@@ -12,5 +12,4 @@ fastapi
 uvicorn
 cryptography
 pandas
-sqlite3
 plotly
