@@ -249,3 +249,37 @@
 2025-12-13 23:05:19,719 - db_helper - INFO - fetch_expenses_for_date: 2024-08-01, user_id: 1
 2025-12-13 23:18:18,267 - db_helper - INFO - fetch_expenses_for_date: 2024-08-01, user_id: 1
 2025-12-13 23:18:18,301 - db_helper - INFO - fetch_monthly_expense_summary: 2025, user_id: 1
+2025-12-14 12:15:40,571 - auth_helper - INFO - verify_user: sr
+2025-12-14 12:15:40,644 - db_helper - INFO - fetch_expenses_for_date: 2024-08-01, user_id: 1
+2025-12-14 12:15:40,667 - db_helper - INFO - fetch_all_expenses_with_id: user_id: 1
+2025-12-14 12:15:41,242 - db_helper - INFO - fetch_expenses_for_date: 2024-08-01, user_id: 1
+2025-12-14 12:15:48,089 - db_helper - INFO - fetch_expenses_for_date: 2024-08-01, user_id: 1
+2025-12-14 12:15:48,124 - db_helper - INFO - fetch_monthly_expense_summary: 2025, user_id: 1
+2025-12-14 12:17:51,249 - auth_helper - INFO - verify_user: sr
+2025-12-14 12:17:51,340 - db_helper - INFO - fetch_expenses_for_date: 2024-08-01, user_id: 1
+2025-12-14 12:17:51,358 - db_helper - INFO - fetch_all_expenses_with_id: user_id: 1
+2025-12-14 12:17:51,908 - db_helper - INFO - fetch_expenses_for_date: 2024-08-01, user_id: 1
+2025-12-14 12:17:54,407 - db_helper - INFO - fetch_expenses_for_date: 2024-08-01, user_id: 1
+2025-12-14 12:17:54,442 - db_helper - INFO - fetch_monthly_expense_summary: 2025, user_id: 1
+2025-12-14 12:18:44,310 - db_helper - INFO - fetch_expenses_for_date: 2024-08-01, user_id: 1
+2025-12-14 12:18:44,343 - db_helper - INFO - fetch_all_expenses_with_id: user_id: 1
+2025-12-14 12:18:44,926 - db_helper - INFO - fetch_expenses_for_date: 2024-08-01, user_id: 1
+2025-12-14 12:19:38,695 - db_helper - INFO - fetch_expenses_for_date: 2024-08-01, user_id: 1
+2025-12-14 12:19:43,343 - db_helper - INFO - fetch_expenses_for_date: 2024-08-01, user_id: 1
+2025-12-14 12:19:44,265 - db_helper - INFO - fetch_expenses_for_date: 2024-08-01, user_id: 1
+2025-12-14 12:19:44,298 - db_helper - INFO - fetch_expense_summary: 2024-08-01, 2024-08-31, user_id: 1
+2025-12-14 12:30:34,441 - auth_helper - INFO - create_user: testuser1
+2025-12-14 12:30:34,454 - auth_helper - INFO - create_user: testuser2
+2025-12-14 12:30:34,460 - auth_helper - INFO - verify_user: testuser1
+2025-12-14 12:30:34,468 - auth_helper - INFO - verify_user: testuser2
+2025-12-14 12:30:34,475 - db_helper - INFO - delete_expense_for_date: 2024-12-15, user_id: 2
+2025-12-14 12:30:34,479 - db_helper - INFO - insert_expense: 2024-12-15, amount: 100.0, category: Food, user_id: 2
+2025-12-14 12:30:34,487 - db_helper - INFO - delete_expense_for_date: 2024-12-15, user_id: 3
+2025-12-14 12:30:34,492 - db_helper - INFO - insert_expense: 2024-12-15, amount: 200.0, category: Shopping, user_id: 3
+2025-12-14 12:30:34,499 - db_helper - INFO - fetch_expenses_for_date: 2024-12-15, user_id: 2
+2025-12-14 12:30:34,505 - db_helper - INFO - fetch_expenses_for_date: 2024-12-15, user_id: 3
+2025-12-14 12:30:34,510 - db_helper - INFO - fetch_expenses_for_date: 2024-12-15, user_id: 3
+2025-12-14 12:56:27,508 - auth_helper - INFO - verify_user: sr
+2025-12-14 12:56:28,683 - db_helper - INFO - fetch_expenses_for_date: 2024-08-01, user_id: 1
+2025-12-14 12:56:28,704 - db_helper - INFO - fetch_all_expenses_with_id: user_id: 1
+2025-12-14 12:56:29,290 - db_helper - INFO - fetch_expenses_for_date: 2024-08-01, user_id: 1

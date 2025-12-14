@@ -33,13 +33,12 @@ def fetch_expenses_for_date(expense_date, user_id):
         expenses = cursor.fetchall()
     return expenses
 
-
 def insert_expense(expense_date, amount, category, notes, user_id):
-    logger.info(f"insert_expense: {expense_date}, amount: {amount}, category: {category}, user_id: {user_id}")
+    logger.info(f"insert_expense: {expense_date}, user_id: {user_id}, [ENCRYPTED DATA]")
     with get_db_cursor(commit=True) as cursor:
         cursor.execute(
             "INSERT INTO expenses (expense_date, amount, category, notes, user_id) VALUES (%s, %s, %s, %s, %s)",
-            (expense_date, amount, category, notes, user_id)
+            (expense_date, str(amount), category, notes, user_id)  # Store amount as string
         )
 
 
@@ -104,3 +103,5 @@ def update_expense_by_id(expense_id, amount, category, notes, user_id):
             "UPDATE expenses SET amount=%s, category=%s, notes=%s WHERE id=%s AND user_id=%s",
             (amount, category, notes, expense_id, user_id)
         )
+
+

@@ -27,16 +27,13 @@ def monthly_analytics_tab():
             return
 
         try:
-            st.write(f"Debug: Sending user_id = {st.session_state.user_id}")  # Debug info
             response = requests.post(f"{API_URL}/analytics_month/", params={"year": selected_year}, headers=headers)
-
-            st.write(f"Debug: Status Code = {response.status_code}")  # Debug info
 
             if response.status_code == 200:
                 data = response.json()
 
                 if len(data) == 0:
-                    st.warning(f"No Monthly Expense Analytics data for {selected_year}")
+                    st.warning(f"No expense data found for {selected_year}. Add some expenses first!")
                 else:
                     df = pd.DataFrame(data)
 
@@ -55,7 +52,6 @@ def monthly_analytics_tab():
             elif response.status_code == 401:
                 st.error("❌ Authentication failed. Please log out and log in again.")
             else:
-                st.error(f"Failed to retrieve monthly analytics. Status: {response.status_code}")
-                st.write(f"Response: {response.text}")
+                st.error(f"Failed to retrieve monthly analytics.")
         except Exception as e:
-            st.error(f"Error: {str(e)}")
+            st.error(f"Error connecting to server: {str(e)}")
