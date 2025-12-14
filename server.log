@@ -1,0 +1,251 @@
+2025-12-13 12:04:34,359 - db_helper - INFO - fetch_expenses_for_date: 2024-08-01
+2025-12-13 12:52:26,563 - db_helper - INFO - fetch_expenses_for_date: 2024-08-01
+2025-12-13 12:54:02,842 - db_helper - INFO - fetch_expenses_for_date: 2024-08-01
+2025-12-13 12:54:07,553 - db_helper - INFO - fetch_expenses_for_date: 2024-08-01
+2025-12-13 12:54:08,402 - db_helper - INFO - fetch_expenses_for_date: 2024-08-01
+2025-12-13 12:54:08,429 - db_helper - INFO - fetch_monthly_expense_summary: 2020
+2025-12-13 12:54:11,443 - db_helper - INFO - fetch_expenses_for_date: 2024-08-01
+2025-12-13 12:54:12,392 - db_helper - INFO - fetch_expenses_for_date: 2024-08-01
+2025-12-13 12:54:12,422 - db_helper - INFO - fetch_monthly_expense_summary: 2021
+2025-12-13 12:54:14,548 - db_helper - INFO - fetch_expenses_for_date: 2024-08-01
+2025-12-13 12:54:15,543 - db_helper - INFO - fetch_expenses_for_date: 2024-08-01
+2025-12-13 12:54:15,572 - db_helper - INFO - fetch_monthly_expense_summary: 2022
+2025-12-13 12:54:16,812 - db_helper - INFO - fetch_expenses_for_date: 2024-08-01
+2025-12-13 12:54:18,182 - db_helper - INFO - fetch_expenses_for_date: 2024-08-01
+2025-12-13 12:54:18,210 - db_helper - INFO - fetch_monthly_expense_summary: 2020
+2025-12-13 12:54:55,300 - db_helper - INFO - fetch_expenses_for_date: 2024-08-01
+2025-12-13 12:54:56,284 - db_helper - INFO - fetch_expenses_for_date: 2024-08-01
+2025-12-13 12:54:56,311 - db_helper - INFO - fetch_monthly_expense_summary: 2024
+2025-12-13 12:56:08,802 - db_helper - INFO - fetch_expenses_for_date: 2024-08-01
+2025-12-13 12:59:03,558 - db_helper - INFO - fetch_expenses_for_date: 2024-08-01
+2025-12-13 12:59:06,241 - db_helper - INFO - fetch_expenses_for_date: 2024-08-01
+2025-12-13 12:59:07,435 - db_helper - INFO - fetch_expenses_for_date: 2024-08-01
+2025-12-13 12:59:07,465 - db_helper - INFO - fetch_monthly_expense_summary: 2022
+2025-12-13 12:59:09,286 - db_helper - INFO - fetch_expenses_for_date: 2024-08-01
+2025-12-13 12:59:11,391 - db_helper - INFO - fetch_expenses_for_date: 2024-08-01
+2025-12-13 12:59:12,084 - db_helper - INFO - fetch_expenses_for_date: 2024-08-01
+2025-12-13 12:59:12,115 - db_helper - INFO - fetch_monthly_expense_summary: 2024
+2025-12-13 12:59:13,357 - db_helper - INFO - fetch_expenses_for_date: 2024-08-01
+2025-12-13 12:59:13,385 - db_helper - INFO - fetch_monthly_expense_summary: 2024
+2025-12-13 12:59:15,166 - db_helper - INFO - fetch_expenses_for_date: 2024-08-01
+2025-12-13 12:59:15,668 - db_helper - INFO - fetch_expenses_for_date: 2024-08-01
+2025-12-13 12:59:15,697 - db_helper - INFO - fetch_monthly_expense_summary: 2023
+2025-12-13 13:01:01,291 - db_helper - INFO - fetch_expenses_for_date: 2024-08-01
+2025-12-13 13:01:06,069 - db_helper - INFO - fetch_expenses_for_date: 2024-08-01
+2025-12-13 13:01:06,578 - db_helper - INFO - fetch_expenses_for_date: 2024-08-01
+2025-12-13 13:01:06,610 - db_helper - INFO - fetch_monthly_expense_summary: 2024
+2025-12-13 13:01:09,296 - db_helper - INFO - fetch_expenses_for_date: 2024-08-01
+2025-12-13 13:01:09,830 - db_helper - INFO - fetch_expenses_for_date: 2024-08-01
+2025-12-13 13:01:09,861 - db_helper - INFO - fetch_monthly_expense_summary: 2022
+2025-12-13 13:01:12,329 - db_helper - INFO - fetch_expenses_for_date: 2024-08-01
+2025-12-13 13:01:13,250 - db_helper - INFO - fetch_expenses_for_date: 2024-08-01
+2025-12-13 13:01:13,280 - db_helper - INFO - fetch_monthly_expense_summary: 2021
+2025-12-13 13:03:52,574 - db_helper - INFO - fetch_expenses_for_date: 2024-08-01
+2025-12-13 13:03:52,574 - db_helper - INFO - fetch_expenses_for_date: 2024-08-01
+2025-12-13 13:03:52,575 - db_helper - INFO - fetch_expenses_for_date: 2024-08-01
+2025-12-13 13:03:52,574 - db_helper - INFO - fetch_expenses_for_date: 2024-08-01
+2025-12-13 13:04:33,923 - db_helper - INFO - fetch_expenses_for_date: 2024-08-01
+2025-12-13 13:04:38,453 - db_helper - INFO - fetch_expenses_for_date: 2024-08-01
+2025-12-13 13:04:39,105 - db_helper - INFO - fetch_expenses_for_date: 2024-08-01
+2025-12-13 13:04:39,133 - db_helper - INFO - fetch_monthly_expense_summary: 2024
+2025-12-13 13:05:16,065 - db_helper - INFO - fetch_expenses_for_date: 2024-08-01
+2025-12-13 13:05:17,498 - db_helper - INFO - fetch_expenses_for_date: 2024-08-01
+2025-12-13 13:05:17,526 - db_helper - INFO - fetch_monthly_expense_summary: 2024
+2025-12-13 13:05:47,175 - db_helper - INFO - fetch_expenses_for_date: 2024-08-01
+2025-12-13 13:05:47,202 - db_helper - INFO - fetch_monthly_expense_summary: 2024
+2025-12-13 13:05:59,721 - db_helper - INFO - fetch_expenses_for_date: 2024-08-01
+2025-12-13 13:05:59,762 - db_helper - INFO - fetch_monthly_expense_summary: 2024
+2025-12-13 13:07:08,544 - db_helper - INFO - fetch_expenses_for_date: 2024-08-01
+2025-12-13 13:07:08,581 - db_helper - INFO - fetch_monthly_expense_summary: 2024
+2025-12-13 13:08:46,471 - db_helper - INFO - fetch_expenses_for_date: 2024-08-01
+2025-12-13 13:08:48,015 - db_helper - INFO - fetch_expenses_for_date: 2024-08-01
+2025-12-13 13:08:48,043 - db_helper - INFO - fetch_monthly_expense_summary: 2024
+2025-12-13 13:10:23,045 - db_helper - INFO - fetch_expenses_for_date: 2024-08-01
+2025-12-13 13:10:23,560 - db_helper - INFO - fetch_expenses_for_date: 2024-08-01
+2025-12-13 13:10:23,593 - db_helper - INFO - fetch_monthly_expense_summary: 2024
+2025-12-13 13:59:51,680 - db_helper - INFO - fetch_expenses_for_date: 2024-08-01
+2025-12-13 13:59:51,709 - db_helper - INFO - fetch_expense_summary: 2024-08-01, 2024-08-05
+2025-12-13 14:00:23,452 - db_helper - INFO - fetch_expenses_for_date: 2024-08-01
+2025-12-13 14:00:24,093 - db_helper - INFO - fetch_expenses_for_date: 2024-08-01
+2025-12-13 14:00:24,121 - db_helper - INFO - fetch_monthly_expense_summary: 2025
+2025-12-13 14:00:26,268 - db_helper - INFO - fetch_expenses_for_date: 2024-08-01
+2025-12-13 14:00:27,042 - db_helper - INFO - fetch_expenses_for_date: 2024-08-01
+2025-12-13 14:00:27,072 - db_helper - INFO - fetch_monthly_expense_summary: 2024
+2025-12-13 14:00:50,294 - db_helper - INFO - fetch_expenses_for_date: 2024-08-01
+2025-12-13 14:00:51,242 - db_helper - INFO - fetch_expenses_for_date: 2024-08-01
+2025-12-13 14:00:51,270 - db_helper - INFO - fetch_monthly_expense_summary: 2022
+2025-12-13 14:00:53,263 - db_helper - INFO - fetch_expenses_for_date: 2024-08-01
+2025-12-13 14:00:53,792 - db_helper - INFO - fetch_expenses_for_date: 2024-08-01
+2025-12-13 14:00:53,820 - db_helper - INFO - fetch_monthly_expense_summary: 2023
+2025-12-13 14:00:55,182 - db_helper - INFO - fetch_expenses_for_date: 2024-08-01
+2025-12-13 14:00:56,157 - db_helper - INFO - fetch_expenses_for_date: 2024-08-01
+2025-12-13 14:00:56,182 - db_helper - INFO - fetch_monthly_expense_summary: 2020
+2025-12-13 14:00:57,684 - db_helper - INFO - fetch_expenses_for_date: 2024-08-01
+2025-12-13 14:01:00,334 - db_helper - INFO - fetch_expenses_for_date: 2024-08-01
+2025-12-13 14:01:00,782 - db_helper - INFO - fetch_expenses_for_date: 2024-08-01
+2025-12-13 14:01:00,811 - db_helper - INFO - fetch_monthly_expense_summary: 2024
+2025-12-13 14:02:22,578 - db_helper - INFO - fetch_expenses_for_date: 2024-08-01
+2025-12-13 14:02:22,604 - db_helper - INFO - delete_expenses_for_date: 2024-08-01
+2025-12-13 14:02:22,613 - db_helper - INFO - insert_expenses_for_date: 2024-08-01, amount: 1227.0, category: Rent, notes: Monthly rent payment
+2025-12-13 14:02:22,622 - db_helper - INFO - insert_expenses_for_date: 2024-08-01, amount: 300.0, category: Food, notes: Groceries for the week
+2025-12-13 14:02:22,630 - db_helper - INFO - insert_expenses_for_date: 2024-08-01, amount: 1200.0, category: Rent, notes: Monthly rent payment
+2025-12-13 14:02:22,638 - db_helper - INFO - insert_expenses_for_date: 2024-08-01, amount: 300.0, category: Food, notes: Groceries for the week
+2025-12-13 14:02:22,646 - db_helper - INFO - insert_expenses_for_date: 2024-08-01, amount: 4.0, category: Shopping, notes: 
+2025-12-13 14:02:25,923 - db_helper - INFO - fetch_expenses_for_date: 2024-08-01
+2025-12-13 14:02:25,950 - db_helper - INFO - fetch_monthly_expense_summary: 2024
+2025-12-13 14:02:31,366 - db_helper - INFO - fetch_expenses_for_date: 2024-08-01
+2025-12-13 14:02:31,391 - db_helper - INFO - delete_expenses_for_date: 2024-08-01
+2025-12-13 14:02:31,397 - db_helper - INFO - insert_expenses_for_date: 2024-08-01, amount: 1227.0, category: Rent, notes: Monthly rent payment
+2025-12-13 14:02:31,405 - db_helper - INFO - insert_expenses_for_date: 2024-08-01, amount: 300.0, category: Food, notes: Groceries for the week
+2025-12-13 14:02:31,413 - db_helper - INFO - insert_expenses_for_date: 2024-08-01, amount: 1200.0, category: Rent, notes: Monthly rent payment
+2025-12-13 14:02:31,420 - db_helper - INFO - insert_expenses_for_date: 2024-08-01, amount: 300.0, category: Food, notes: Groceries for the week
+2025-12-13 14:02:31,427 - db_helper - INFO - insert_expenses_for_date: 2024-08-01, amount: 6.0, category: Shopping, notes: 
+2025-12-13 14:02:33,710 - db_helper - INFO - fetch_expenses_for_date: 2024-08-01
+2025-12-13 14:02:33,737 - db_helper - INFO - fetch_monthly_expense_summary: 2024
+2025-12-13 14:02:54,244 - db_helper - INFO - fetch_expenses_for_date: 2024-10-09
+2025-12-13 14:02:58,174 - db_helper - INFO - fetch_expenses_for_date: 2024-10-09
+2025-12-13 14:02:58,197 - db_helper - INFO - delete_expenses_for_date: 2024-10-09
+2025-12-13 14:02:58,202 - db_helper - INFO - insert_expenses_for_date: 2024-10-09, amount: 4.0, category: Shopping, notes: 
+2025-12-13 14:02:58,209 - db_helper - INFO - insert_expenses_for_date: 2024-10-09, amount: 3.0, category: Shopping, notes: 
+2025-12-13 14:02:59,980 - db_helper - INFO - fetch_expenses_for_date: 2024-10-09
+2025-12-13 14:03:00,008 - db_helper - INFO - fetch_monthly_expense_summary: 2024
+2025-12-13 15:53:00,333 - db_helper - INFO - fetch_expenses_for_date: 2024-10-09
+2025-12-13 15:53:00,371 - db_helper - INFO - fetch_all_expenses_with_id
+2025-12-13 15:53:09,455 - db_helper - INFO - fetch_expenses_for_date: 2024-08-01
+2025-12-13 15:53:26,008 - db_helper - INFO - fetch_expenses_for_date: 2024-08-01
+2025-12-13 15:53:30,275 - db_helper - INFO - fetch_expenses_for_date: 2024-08-01
+2025-12-13 15:54:47,982 - db_helper - INFO - fetch_expenses_for_date: 2024-08-01
+2025-12-13 15:54:58,429 - db_helper - INFO - fetch_expenses_for_date: 2024-08-01
+2025-12-13 15:55:04,752 - db_helper - INFO - fetch_expenses_for_date: 2024-08-01
+2025-12-13 15:55:04,795 - db_helper - INFO - delete_expense_by_id: 131
+2025-12-13 15:55:04,810 - db_helper - INFO - fetch_all_expenses_with_id
+2025-12-13 15:55:04,866 - db_helper - INFO - fetch_expenses_for_date: 2024-08-01
+2025-12-13 15:55:08,845 - db_helper - INFO - fetch_expenses_for_date: 2024-08-01
+2025-12-13 15:55:08,890 - db_helper - INFO - delete_expense_by_id: 130
+2025-12-13 15:55:08,901 - db_helper - INFO - fetch_all_expenses_with_id
+2025-12-13 15:55:08,952 - db_helper - INFO - fetch_expenses_for_date: 2024-08-01
+2025-12-13 15:55:14,964 - db_helper - INFO - fetch_expenses_for_date: 2024-08-01
+2025-12-13 15:55:15,014 - db_helper - INFO - delete_expense_by_id: 127
+2025-12-13 15:55:15,023 - db_helper - INFO - fetch_all_expenses_with_id
+2025-12-13 15:55:15,080 - db_helper - INFO - fetch_expenses_for_date: 2024-08-01
+2025-12-13 15:55:21,279 - db_helper - INFO - fetch_expenses_for_date: 2024-08-01
+2025-12-13 15:55:21,326 - db_helper - INFO - delete_expense_by_id: 129
+2025-12-13 15:55:21,335 - db_helper - INFO - fetch_all_expenses_with_id
+2025-12-13 15:55:21,386 - db_helper - INFO - fetch_expenses_for_date: 2024-08-01
+2025-12-13 15:56:13,832 - db_helper - INFO - fetch_expenses_for_date: 2024-08-01
+2025-12-13 15:56:14,473 - db_helper - INFO - fetch_expenses_for_date: 2024-08-01
+2025-12-13 15:56:14,503 - db_helper - INFO - fetch_monthly_expense_summary: 2024
+2025-12-13 15:56:51,195 - db_helper - INFO - fetch_expenses_for_date: 2024-08-01
+2025-12-13 15:56:54,538 - db_helper - INFO - fetch_expenses_for_date: 2024-08-01
+2025-12-13 15:56:56,918 - db_helper - INFO - fetch_expenses_for_date: 2024-08-01
+2025-12-13 15:56:59,015 - db_helper - INFO - fetch_expenses_for_date: 2024-08-01
+2025-12-13 15:56:59,099 - db_helper - INFO - fetch_expenses_for_date: 2024-08-01
+2025-12-13 15:59:58,738 - db_helper - INFO - fetch_expenses_for_date: 2024-08-01
+2025-12-13 15:59:58,769 - db_helper - INFO - fetch_expense_summary: 2024-08-01, 2024-08-05
+2025-12-13 16:02:18,559 - db_helper - INFO - fetch_expenses_for_date: 2024-08-01
+2025-12-13 16:02:22,885 - db_helper - INFO - fetch_expenses_for_date: 2024-08-01
+2025-12-13 16:02:22,977 - db_helper - INFO - fetch_expenses_for_date: 2024-08-01
+2025-12-13 16:02:57,660 - db_helper - INFO - fetch_expenses_for_date: 2024-08-01
+2025-12-13 16:02:57,743 - db_helper - INFO - fetch_expenses_for_date: 2024-08-01
+2025-12-13 16:02:57,883 - db_helper - INFO - fetch_expenses_for_date: 2024-08-01
+2025-12-13 16:02:57,940 - db_helper - INFO - fetch_expenses_for_date: 2024-08-01
+2025-12-13 16:05:40,074 - db_helper - INFO - fetch_expenses_for_date: 2024-08-01
+2025-12-13 16:05:46,052 - db_helper - INFO - fetch_expenses_for_date: 2024-08-01
+2025-12-13 16:05:46,152 - db_helper - INFO - fetch_expenses_for_date: 2024-08-01
+2025-12-13 16:05:47,117 - db_helper - INFO - fetch_expenses_for_date: 2024-08-01
+2025-12-13 16:05:47,223 - db_helper - INFO - fetch_expenses_for_date: 2024-08-01
+2025-12-13 16:05:47,445 - db_helper - INFO - fetch_expenses_for_date: 2024-08-01
+2025-12-13 16:05:47,516 - db_helper - INFO - fetch_expenses_for_date: 2024-08-01
+2025-12-13 16:05:48,496 - db_helper - INFO - fetch_expenses_for_date: 2024-08-01
+2025-12-13 16:05:48,593 - db_helper - INFO - fetch_expenses_for_date: 2024-08-01
+2025-12-13 16:05:49,396 - db_helper - INFO - fetch_expenses_for_date: 2024-08-01
+2025-12-13 16:05:49,484 - db_helper - INFO - fetch_expenses_for_date: 2024-08-01
+2025-12-13 16:05:50,130 - db_helper - INFO - fetch_expenses_for_date: 2024-08-01
+2025-12-13 16:05:50,220 - db_helper - INFO - fetch_expenses_for_date: 2024-08-01
+2025-12-13 16:05:50,373 - db_helper - INFO - fetch_expenses_for_date: 2024-08-01
+2025-12-13 16:05:51,060 - db_helper - INFO - fetch_expenses_for_date: 2024-08-01
+2025-12-13 16:05:51,148 - db_helper - INFO - fetch_expenses_for_date: 2024-08-01
+2025-12-13 16:05:51,292 - db_helper - INFO - fetch_expenses_for_date: 2024-08-01
+2025-12-13 16:05:52,785 - db_helper - INFO - fetch_expenses_for_date: 2024-08-01
+2025-12-13 16:05:52,875 - db_helper - INFO - fetch_expenses_for_date: 2024-08-01
+2025-12-13 16:05:55,767 - db_helper - INFO - fetch_expenses_for_date: 2024-08-01
+2025-12-13 16:05:55,797 - db_helper - INFO - fetch_all_expenses_with_id
+2025-12-13 16:05:56,377 - db_helper - INFO - fetch_expenses_for_date: 2024-08-01
+2025-12-13 16:06:00,858 - db_helper - INFO - fetch_expenses_for_date: 2024-08-01
+2025-12-13 16:06:00,935 - db_helper - INFO - fetch_expenses_for_date: 2024-08-01
+2025-12-13 16:06:02,668 - db_helper - INFO - fetch_expenses_for_date: 2024-08-01
+2025-12-13 16:06:02,769 - db_helper - INFO - fetch_expenses_for_date: 2024-08-01
+2025-12-13 16:06:04,018 - db_helper - INFO - fetch_expenses_for_date: 2024-08-01
+2025-12-13 16:06:04,102 - db_helper - INFO - fetch_expenses_for_date: 2024-08-01
+2025-12-13 16:06:04,993 - db_helper - INFO - fetch_expenses_for_date: 2024-08-01
+2025-12-13 16:06:05,077 - db_helper - INFO - fetch_expenses_for_date: 2024-08-01
+2025-12-13 16:06:05,833 - db_helper - INFO - fetch_expenses_for_date: 2024-08-01
+2025-12-13 16:06:05,917 - db_helper - INFO - fetch_expenses_for_date: 2024-08-01
+2025-12-13 16:06:24,600 - db_helper - INFO - fetch_expenses_for_date: 2024-08-01
+2025-12-13 16:06:24,683 - db_helper - INFO - fetch_expenses_for_date: 2024-08-01
+2025-12-13 16:06:29,416 - db_helper - INFO - fetch_expenses_for_date: 2024-08-01
+2025-12-13 16:06:29,484 - db_helper - INFO - fetch_expenses_for_date: 2024-08-01
+2025-12-13 16:06:30,180 - db_helper - INFO - fetch_expenses_for_date: 2024-08-01
+2025-12-13 16:06:30,255 - db_helper - INFO - fetch_expenses_for_date: 2024-08-01
+2025-12-13 16:06:30,809 - db_helper - INFO - fetch_expenses_for_date: 2024-08-01
+2025-12-13 16:06:30,881 - db_helper - INFO - fetch_expenses_for_date: 2024-08-01
+2025-12-13 16:06:31,375 - db_helper - INFO - fetch_expenses_for_date: 2024-08-01
+2025-12-13 16:06:31,451 - db_helper - INFO - fetch_expenses_for_date: 2024-08-01
+2025-12-13 16:06:32,340 - db_helper - INFO - fetch_expenses_for_date: 2024-08-01
+2025-12-13 16:06:32,420 - db_helper - INFO - fetch_expenses_for_date: 2024-08-01
+2025-12-13 16:09:24,720 - db_helper - INFO - fetch_expenses_for_date: 2024-08-01
+2025-12-13 16:09:24,806 - db_helper - INFO - fetch_expenses_for_date: 2024-08-01
+2025-12-13 16:09:37,149 - db_helper - INFO - fetch_expenses_for_date: 2024-08-01
+2025-12-13 16:09:37,235 - db_helper - INFO - fetch_expenses_for_date: 2024-08-01
+2025-12-13 16:11:34,440 - db_helper - INFO - fetch_expenses_for_date: 2024-08-01
+2025-12-13 16:11:34,525 - db_helper - INFO - fetch_expenses_for_date: 2024-08-01
+2025-12-13 16:11:40,746 - db_helper - INFO - fetch_expenses_for_date: 2024-08-01
+2025-12-13 16:11:40,834 - db_helper - INFO - fetch_expenses_for_date: 2024-08-01
+2025-12-13 16:11:42,644 - db_helper - INFO - fetch_expenses_for_date: 2024-08-01
+2025-12-13 16:11:42,729 - db_helper - INFO - fetch_expenses_for_date: 2024-08-01
+2025-12-13 16:14:00,889 - db_helper - INFO - fetch_expenses_for_date: 2024-08-01
+2025-12-13 16:14:00,932 - db_helper - INFO - fetch_expense_summary: 2024-08-01, 2024-08-05
+2025-12-13 16:14:38,599 - db_helper - INFO - fetch_expenses_for_date: 2024-08-01
+2025-12-13 16:14:59,420 - db_helper - INFO - fetch_expenses_for_date: 2024-08-01
+2025-12-13 17:09:23,501 - db_helper - INFO - fetch_expenses_for_date: 2024-08-01
+2025-12-13 17:09:46,320 - db_helper - INFO - fetch_expenses_for_date: 2024-08-01
+2025-12-13 17:09:46,368 - db_helper - INFO - fetch_expense_summary: 2024-08-01, 2024-08-05
+2025-12-13 17:09:59,249 - db_helper - INFO - fetch_expenses_for_date: 2024-08-01
+2025-12-13 17:09:59,295 - db_helper - INFO - fetch_monthly_expense_summary: 2025
+2025-12-13 17:10:02,246 - db_helper - INFO - fetch_expenses_for_date: 2024-08-01
+2025-12-13 17:10:03,064 - db_helper - INFO - fetch_expenses_for_date: 2024-08-01
+2025-12-13 17:10:03,109 - db_helper - INFO - fetch_monthly_expense_summary: 2024
+2025-12-13 22:57:26,072 - auth_helper - INFO - create_user: sr
+2025-12-13 22:57:39,754 - auth_helper - INFO - verify_user: sr
+2025-12-13 22:57:39,814 - db_helper - INFO - fetch_expenses_for_date: 2024-08-01, user_id: 1
+2025-12-13 22:57:39,833 - db_helper - INFO - fetch_all_expenses_with_id: user_id: 1
+2025-12-13 22:57:40,405 - db_helper - INFO - fetch_expenses_for_date: 2024-08-01, user_id: 1
+2025-12-13 22:58:00,910 - db_helper - INFO - fetch_expenses_for_date: 2024-08-01, user_id: 1
+2025-12-13 22:58:07,780 - db_helper - INFO - fetch_expenses_for_date: 2024-08-01, user_id: 1
+2025-12-13 22:58:08,330 - db_helper - INFO - fetch_expenses_for_date: 2024-08-01, user_id: 1
+2025-12-13 22:58:20,705 - db_helper - INFO - fetch_expenses_for_date: 2024-08-01, user_id: 1
+2025-12-13 22:58:20,739 - db_helper - INFO - fetch_expense_summary: 2024-08-01, 2024-08-05, user_id: 1
+2025-12-13 22:58:25,536 - db_helper - INFO - fetch_expenses_for_date: 2024-08-01, user_id: 1
+2025-12-13 23:04:12,874 - auth_helper - INFO - verify_user: sr
+2025-12-13 23:04:12,942 - db_helper - INFO - fetch_expenses_for_date: 2024-08-01, user_id: 1
+2025-12-13 23:04:12,959 - db_helper - INFO - fetch_all_expenses_with_id: user_id: 1
+2025-12-13 23:04:13,535 - db_helper - INFO - fetch_expenses_for_date: 2024-08-01, user_id: 1
+2025-12-13 23:04:17,242 - db_helper - INFO - fetch_expenses_for_date: 2024-08-01, user_id: 1
+2025-12-13 23:04:17,275 - db_helper - INFO - fetch_monthly_expense_summary: 2025, user_id: 1
+2025-12-13 23:05:09,437 - auth_helper - INFO - verify_user: sr
+2025-12-13 23:05:09,540 - db_helper - INFO - fetch_expenses_for_date: 2024-08-01, user_id: 1
+2025-12-13 23:05:09,556 - db_helper - INFO - fetch_all_expenses_with_id: user_id: 1
+2025-12-13 23:05:10,141 - db_helper - INFO - fetch_expenses_for_date: 2024-08-01, user_id: 1
+2025-12-13 23:05:11,980 - db_helper - INFO - fetch_expenses_for_date: 2024-08-01, user_id: 1
+2025-12-13 23:05:13,763 - db_helper - INFO - fetch_expenses_for_date: 2024-08-01, user_id: 1
+2025-12-13 23:05:14,423 - db_helper - INFO - fetch_expenses_for_date: 2024-08-01, user_id: 1
+2025-12-13 23:05:14,707 - db_helper - INFO - fetch_expenses_for_date: 2024-08-01, user_id: 1
+2025-12-13 23:05:14,881 - db_helper - INFO - fetch_expenses_for_date: 2024-08-01, user_id: 1
+2025-12-13 23:05:15,062 - db_helper - INFO - fetch_expenses_for_date: 2024-08-01, user_id: 1
+2025-12-13 23:05:15,261 - db_helper - INFO - fetch_expenses_for_date: 2024-08-01, user_id: 1
+2025-12-13 23:05:15,452 - db_helper - INFO - fetch_expenses_for_date: 2024-08-01, user_id: 1
+2025-12-13 23:05:16,741 - db_helper - INFO - fetch_expenses_for_date: 2024-08-01, user_id: 1
+2025-12-13 23:05:17,469 - db_helper - INFO - fetch_expenses_for_date: 2024-08-01, user_id: 1
+2025-12-13 23:05:19,719 - db_helper - INFO - fetch_expenses_for_date: 2024-08-01, user_id: 1
+2025-12-13 23:18:18,267 - db_helper - INFO - fetch_expenses_for_date: 2024-08-01, user_id: 1
+2025-12-13 23:18:18,301 - db_helper - INFO - fetch_monthly_expense_summary: 2025, user_id: 1
