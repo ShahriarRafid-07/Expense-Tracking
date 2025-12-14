@@ -3,7 +3,8 @@ from datetime import datetime
 import requests
 import pandas as pd
 
-API_URL = "http://localhost:8000"
+import os
+API_URL = os.getenv("API_URL", "http://localhost:8000")
 
 def get_headers():
     """Get headers with user authentication"""
