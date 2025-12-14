@@ -3,8 +3,9 @@ from datetime import datetime
 import requests
 import time
 from encryption_helper import encrypt_expense, decrypt_expense
+import os
+API_URL = os.getenv("API_URL", "http://localhost:8000")
 
-API_URL = "http://localhost:8000"
 
 
 def get_headers():
