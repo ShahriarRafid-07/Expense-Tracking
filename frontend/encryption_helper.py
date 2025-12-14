@@ -4,6 +4,8 @@ from cryptography.fernet import Fernet
 from cryptography.hazmat.primitives import hashes
 #from cryptography.hazmat.primitives.kdf.pbkdf2 import PBKDF2
 from cryptography.hazmat.primitives.kdf.pbkdf2 import PBKDF2HMAC
+import os
+API_URL = os.getenv("API_URL", "http://localhost:8000")
 
 
 def derive_key_from_password(password: str, salt: bytes) -> bytes:
