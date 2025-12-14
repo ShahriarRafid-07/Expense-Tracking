@@ -62,3 +62,4 @@ def decrypt_expense(expense: dict, key: bytes) -> dict:
             "category": "[ENCRYPTED]",
             "notes": "[ENCRYPTED]"
         }
+
