@@ -3,7 +3,8 @@ import requests
 import time
 from encryption_helper import get_encryption_key
 
-API_URL = "http://localhost:8000"
+import os
+API_URL = os.getenv("API_URL", "http://localhost:8000")
 
 
 def login_page():
